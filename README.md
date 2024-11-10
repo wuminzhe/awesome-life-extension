@@ -10,9 +10,13 @@ I also believe that we or our next generation can achieve longer life through st
 
 我还认为，我们或者我们的下一代可以通过分步骤来获得更长的生命，而不是等待未来某一项技术的突然突破。所以我更愿意称这个过程为"科学修真"。修真不是一蹴而就的，而是需要一步一步的积累。
 
-## Longevity Enthusiast
+## Longevity Enthusiasts
 * [David Sinclair](https://sinclair.hms.harvard.edu/people/david-sinclair)
 * [Dan Buettner](https://danbuettner.com/)
 * [Peter Attia](https://www.youtube.com/@PeterAttiaMD)
 * [Valter Longo](https://gero.usc.edu/faculty/longo/)
 * [SIIM Land](https://www.siimland.co/)
+
+## Signaling/biological Pathways
+
+## Supplements/Medicines
