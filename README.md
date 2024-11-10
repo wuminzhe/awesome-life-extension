@@ -20,3 +20,16 @@ I also believe that we or our next generation can achieve longer life through st
 ## Signaling/biological Pathways
 
 ## Supplements/Medicines
+* Glycine(甘氨酸, 氨基乙酸)  
+  [Glycine and aging: Evidence and mechanisms](https://www.sciencedirect.com/science/article/pii/S1568163723000818?via%3Dihub)  
+  [Glycine promotes longevity in Caenorhabditis elegans in a methionine cycle-dependent fashion](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007633)  
+  [Amino acids in the regulation of aging and aging-related diseases](https://www.sciencedirect.com/science/article/pii/S2468501119300082?via%3Dihub)  
+  [Glycine-based treatment ameliorates NAFLD by modulating fatty acid oxidation, glutathione synthesis, and the gut microbiome](https://pmc.ncbi.nlm.nih.gov/articles/PMC7982985/)  
+  [GlyNAC supplementation reverses aging hallmarks in aging humans](https://www.bcm.edu/news/glynac-supplementation-reverses-aging-hallmarks-in-aging-humans)
+* Collagen(胶原蛋白)
+* Hyaluronic acid(玻尿酸, 透明质酸)
+* Omega-3 fatty acids(ω-3脂肪酸)
+* Nicotinamide Riboside(烟酰胺核糖, NR)
+* Resveratrol(白藜芦醇)
+* Nicotinamide(烟酰胺)
+* Quercetin(槲皮素)
