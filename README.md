@@ -19,10 +19,12 @@ Make sure your cardiovascular health is good. Because bad cardiovascular health 
 * [Peter Attia](https://www.youtube.com/@PeterAttiaMD)
 * [Valter Longo](https://gero.usc.edu/faculty/longo/)
 * [SIIM Land](https://www.siimland.co/)
+* [Ford Brewer](https://www.youtube.com/@PrevMedHealth)
 
 ## Signaling/biological Pathways
 
 ## Supplements/Medicines
+* Metformin(二甲双胍)
 * Glycine(甘氨酸, 氨基乙酸)  
   [Glycine and aging: Evidence and mechanisms](https://www.sciencedirect.com/science/article/pii/S1568163723000818?via%3Dihub)  
   [Glycine promotes longevity in Caenorhabditis elegans in a methionine cycle-dependent fashion](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007633)  
@@ -36,3 +38,10 @@ Make sure your cardiovascular health is good. Because bad cardiovascular health 
 * Resveratrol(白藜芦醇)
 * Nicotinamide(烟酰胺)
 * Quercetin(槲皮素)
+
+## Diet
+* Intermittent fasting
+* Low-carb diet
+* Ketogenic diet
+* Fasting mimicking diet
+* Calorie restriction
